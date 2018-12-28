@@ -1,5 +1,5 @@
 # MiCalculadora
-Calculator Android App for Informatica Industrial II, with @anacarnerero
+Calculator Android App for Informatica Industrial II, with [@anacarnerero](https://github.com/anacarnerero)
 
 # License 
 
