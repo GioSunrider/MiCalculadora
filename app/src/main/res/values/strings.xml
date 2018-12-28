@@ -1,0 +1,35 @@
+<resources>
+<string name="app_name">Mi Calculadora</string>
+<string name="num_7">7</string>
+<string name="num_8">8</string>
+<string name="num_9">9</string>
+<string name="num_4">4</string>
+<string name="num_5">5</string>
+<string name="num_6">6</string>
+<string name="num_1">1</string>
+<string name="num_2">2</string>
+<string name="num_3">3</string>
+<string name="num_0">0</string>
+<string name="c">C</string>
+<string name="ce">CE</string>
+<string name="sum">+</string>
+<string name="res">-</string>
+<string name="mult">×</string>
+<string name="div">÷</string>
+<string name="igl">=</string>
+<string name="punto">.</string>
+<string name="scientific">scientific</string>
+<string name="standard">standard</string>
+<string name="cos">cos</string>
+<string name="sin">sin</string>
+<string name="tan">tan</string>
+<string name="xy">^</string>
+<string name="Rad">Rad</string>
+<string name="Deg">Deg</string>
+<string name="log">log</string>
+<string name="sqrt">√</string>
+<string name="pi">π</string>
+<string name="title_activity_acerca_de">AcercaDe</string>
+<string name="autor">autor</string>
+<string name="acerca_de">Acerca de</string>
+</resources>
